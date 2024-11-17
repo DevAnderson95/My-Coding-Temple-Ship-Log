@@ -1,0 +1,1 @@
+Compasses can be read by following the needle that directs from either North, South, East, and West!
